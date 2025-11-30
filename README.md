@@ -1,2 +1,1 @@
-# LibraryAssistant
-MK Library Assistant Demo v1
+Embedding Service Repository v1
